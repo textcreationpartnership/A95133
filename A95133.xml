@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true Protestants humble desires to the Kings most excellent Majesty. Or, Protestant-like propositions for His Majesties perusall, tending to a safe and well-grounded peace. VVith a commination or chorus of the people against those that desire it not.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95133</idno>
+            <idno type="STC">Wing T2866</idno>
+            <idno type="STC">Thomason 669.f.11[79]</idno>
+            <idno type="STC">ESTC R210645</idno>
+            <idno type="EEBO-CITATION">99869423</idno>
+            <idno type="PROQUEST">99869423</idno>
+            <idno type="VID">162731</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95133)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162731)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[79])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true Protestants humble desires to the Kings most excellent Majesty. Or, Protestant-like propositions for His Majesties perusall, tending to a safe and well-grounded peace. VVith a commination or chorus of the people against those that desire it not.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Anno 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "That your Majesty will be pleased to signe".</note>
+                  <note>A Royalist poem.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Column 3 line 1 reads "A commination to be confir-". Variant: column 3 line 1 reads "A comination to be confirmed".</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Poetry --  Early works to 1800.</term>
+               <term>Royalists --  Great Britain --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:162731:1" rendition="simple:additions"/>
+            <head>The true Proteſtants humble Deſires to the Kings moſt
+excellent Majeſty. Or, Proteſtant-like Propoſitions for His Majeſties peruſall, tending to a ſafe and
+well-grounded Peace. VVith a Commination or Chorus of the People
+againſt thoſe that deſire it not.</head>
+            <lg n="1">
+               <head>1</head>
+               <l>THat your Majeſty will be pleaſed to ſigne</l>
+               <l>To nothing that may after cauſe</l>
+               <l>All former Statutes to decline,</l>
+               <l>And grate our Fundamentall Lawes.</l>
+               <l>And your good Subiects ſhall daily pray,</l>
+               <l>God preſerve your Maieſty.</l>
+            </lg>
+            <lg n="2">
+               <head>2</head>
+               <l>That your Majeſty would never let</l>
+               <l>The Scottiſh Government be erected,</l>
+               <l>For feare, leſt when their Lawes we get,</l>
+               <l>We with their treaſons be infected.</l>
+            </lg>
+            <lg n="3">
+               <head>3</head>
+               <l>That your Majeſty would never give</l>
+               <l>The ſtaffe out of your hand againe;</l>
+               <l>For though as ſlaves we will not live,</l>
+               <l>Yet we will have a Soveraigne.</l>
+            </lg>
+            <lg n="4">
+               <head>4</head>
+               <l>That your Majeſty, as you are ſworne,</l>
+               <l>Would maintain the Church in that good ſtate,</l>
+               <l>As your Forefathers did it adorne,</l>
+               <l>And hath been taken away of late.</l>
+            </lg>
+            <lg n="5">
+               <head>5</head>
+               <l>That your Majeſty would graciouſly pleaſe</l>
+               <l>To hearken to none would innovate,</l>
+               <l>For ſo we ſhall nere cure our old diſeaſe,</l>
+               <l>Occaſioned by riots intemperate.</l>
+            </lg>
+            <lg n="6">
+               <head>6</head>
+               <l>That your Majeſty would pleaſe once more</l>
+               <l>The ſimple people to inſtate</l>
+               <l>With the Common Prayer Book, as before;</l>
+               <l>They are not for <hi>extempore</hi> prate.</l>
+            </lg>
+            <lg n="7">
+               <head>7</head>
+               <l>That your Majeſty would not yeeld,</l>
+               <l>Your friends, who ventur'd their ſtate and lives,</l>
+               <l>Fighting for your honour in the field,</l>
+               <l>Should be cut off, as their Enemy ſtrives.</l>
+            </lg>
+            <lg n="8">
+               <head>8</head>
+               <l>That your Majeſty would pleaſe nere to admit</l>
+               <l>Any Committees, the plague of the Nation,</l>
+               <l>Who (while like Cenſors) in chairs they do ſit,</l>
+               <l>Do wrack the poor Commons in grievous faſhion</l>
+            </lg>
+            <lg n="9">
+               <head>9</head>
+               <l>That your gracious Majeſty would abhorre</l>
+               <l>The thought, to conſent your Siſters Sonne,</l>
+               <l>Brave <hi>Rupert</hi> ſhould die, for maintaining a warre,</l>
+               <l>As every good Subject ought to have done.</l>
+            </lg>
+            <lg n="10">
+               <head>10</head>
+               <l>That your Ma. would pleaſe that famous <hi>New<g ref="char:EOLhyphen"/>caſtle</hi>
+               </l>
+               <l>Whoſe religion makes not his loyalty leſs:</l>
+               <l>Who once for you even with <hi>Mavors</hi> did wraſtle,</l>
+               <l>May not loſe his lands, be it he did tranſgreſſe.</l>
+            </lg>
+            <lg n="11">
+               <head>11</head>
+               <l>That your Majeſty would make <hi>Jockey</hi> to pay</l>
+               <l>Intereſt on intereſt for that vaſt ſum of gold</l>
+               <l>Which he took for your perſon, but the other day</l>
+               <l>When you to your better Subjects were ſold.</l>
+            </lg>
+            <lg n="12">
+               <head>12</head>
+               <l>That your Majeſty would pleaſe, though we hate ſuperſtitions,</l>
+               <l>Yet we may have one religion or other,</l>
+               <l>Any thing but that of the Engliſh Preciſians,</l>
+               <l>And that of <hi>Iockeys</hi> our moſt deare Brother.</l>
+            </lg>
+            <lg n="13">
+               <head>13</head>
+               <l>That your Majeſt. wil pleaſe to have your old rent</l>
+               <l>That is now behind for many years paſt,</l>
+               <l>Due to be paid by your Parliament,</l>
+               <l>Who are bound upon bond, to pay you at laſt.</l>
+            </lg>
+            <lg n="14">
+               <head>14</head>
+               <l>That your Maj. wil pleaſe again, when you get</l>
+               <l>Your ſhips into your own hand, as you ought,</l>
+               <l>Officers in them more truſty to ſet,</l>
+               <l>Then thoſe who aſſented for coine to be caught.</l>
+            </lg>
+            <lg n="15">
+               <head>15</head>
+               <l>That your Maj. wil pleaſe to give him his due</l>
+               <l>That late hath inſranchiz'd you from your con<g ref="char:EOLhyphen"/>finement,</l>
+               <l>He deſerves honor, that hath ſo helped you,</l>
+               <l>Both in his own perſon, and by his deſignement.</l>
+            </lg>
+            <lg n="16">
+               <head>16</head>
+               <l>That your M. would pleaſe the lands two eys</l>
+               <l>Now dim'd may be reſtor'd to their old wont,</l>
+               <l>I mean the two famous Univerſities,</l>
+               <l>And we not miſtake a baſon for a Font.</l>
+            </lg>
+            <lg n="17">
+               <head>17</head>
+               <l>That your Majeſty would pleaſe to call</l>
+               <l>A Synod, a body of learned men,</l>
+               <l>For ours in four yeares have done nothing at all,</l>
+               <l>We are not the better for their purſe, nor their pen</l>
+            </lg>
+            <lg n="18">
+               <head>18</head>
+               <l>That your Maje. would pleaſe to ſend for the Prince,</l>
+               <l>To avoid the imputation that ſome</l>
+               <l>Caſt on him, who ſay, he on purpoſe went hence</l>
+               <l>Himſelf to ingratiate with the See of Rome.</l>
+            </lg>
+            <lg n="19">
+               <head>19.</head>
+               <l>That your Majeſtie would pleaſe to ſend for your Spouſe,</l>
+               <l>Who in France like a Turtle forſaken doth moan,</l>
+               <l>She cannot the leaſt diſturb either houſe,</l>
+               <l>If ſhe will, then why do not they lie alone.</l>
+            </lg>
+            <lg n="20">
+               <head>20.</head>
+               <l>That your Majeſtie would pleaſe by a Decla<g ref="char:EOLhyphen"/>ration</l>
+               <l>The deluded Commons to undeceive,</l>
+               <l>That you hate the acts of the Iriſh Nation,</l>
+               <l>Contrary to that ſome would have them believe.</l>
+            </lg>
+            <lg n="21">
+               <head>21.</head>
+               <l>That your Majeſtie would pleaſe ne're to hearken to thoſe</l>
+               <l>That would have the Lawes in Engliſh tranſlated</l>
+               <l>So we may have bald Rime for verie good Proſe,</l>
+               <l>And have our calamities ſtill propagated.</l>
+            </lg>
+            <lg n="22">
+               <head>22</head>
+               <l>That your M. would turn daies of humiliation</l>
+               <l>And our daies of thanks for we know not what:</l>
+               <l>With our ſtrange Faſt-daies for pe<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>turbation,</l>
+               <l>For thoſe which the Service-Book ſtil pointeth at</l>
+            </lg>
+            <lg n="23">
+               <head>23</head>
+               <l>We beſeech your Majeſtie all qualifications</l>
+               <l>Not heard of but lately, all negative ſwearing,</l>
+               <l>All Proteſtations and foule Abjurations</l>
+               <l>May never be licenc't againe to have hearing.</l>
+            </lg>
+            <lg>
+               <l>Theſe things, great Sir, if you pleaſe to afford,</l>
+               <l>We ſhall have a ſafe and well-grounded peace,</l>
+               <l>All this is allowable by Gods holy Word,</l>
+               <l>&amp; if obſerv'd, may occaſion our weal to increaſe.</l>
+               <l>And your good Subiects ſhall daily pray,</l>
+               <l>God preſerve your Majeſty.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>A Commination to be confir<g ref="char:EOLhyphen"/>med
+By a Chorus of the people.</head>
+            <lg>
+               <l>SInce that by Gods Command, we may</l>
+               <l>Curſe thoſe that doe the truth betray,</l>
+               <l>Let us take up our curſe and ſay,</l>
+               <l>Curſed be he that hates the King,</l>
+               <l>And would his State to ruine bring,</l>
+               <l>And ſcornes to be wedded with a Ring.</l>
+               <l>And all the people ſay Amen.</l>
+            </lg>
+            <lg>
+               <l>Curſed be he the Queen that hates,</l>
+               <l>And 'gainſt the Privie Counſell prates,</l>
+               <l>And doth delight to cauſe debates.</l>
+               <l>And let all the people ſay Amen.</l>
+            </lg>
+            <lg>
+               <l>Curſed be he is Enemie</l>
+               <l>Unto our harmeleſſe Liturgie,</l>
+               <l>And to the Biſhops Hierarchie.</l>
+               <l>And let all the people ſay Amen.</l>
+            </lg>
+            <lg>
+               <l>Curſt with a horrid curſe be he,</l>
+               <l>That would have the Scottiſh Presbytrie</l>
+               <l>For to take root in Britanie.</l>
+               <l>And let all the people ſay Amen.</l>
+            </lg>
+            <lg>
+               <l>Curſed be he that with hand and heart</l>
+               <l>Doth not take the Armies part</l>
+               <l>'Gainſt thoſe that would our Lawes ſubvert.</l>
+               <l>And let all the people ſay Amen.</l>
+            </lg>
+            <lg>
+               <l>Curſed be he, or they, or all,</l>
+               <l>Wiſh not his Majeſtie in White-hall,</l>
+               <l>As great as ever before his fall.</l>
+               <l>And let all the people ſay Amen,</l>
+            </lg>
+            <lg>
+               <l>Curſed be he would not the Queen</l>
+               <l>Should once more with her Lord be ſeen,</l>
+               <l>And in that pomp ſhe once hath been.</l>
+               <l>And let all the people ſay Amen.</l>
+            </lg>
+            <lg>
+               <l>Curſed be he doth not deſire</l>
+               <l>The Prince from France ſhould now retire,</l>
+               <l>For to behold his King and Syre.</l>
+               <l>And let all the people ſay Amen.</l>
+            </lg>
+            <lg>
+               <l>Curſed be he that doth not uſe</l>
+               <l>All meanes that may a peace produce,</l>
+               <l>And doth to lend his aid refuſe.</l>
+               <l>And let all the people ſay Amen.</l>
+            </lg>
+            <lg>
+               <l>Curſed be all Inſcendiaries,</l>
+               <l>Schiſmaticks, and Sectaries,</l>
+               <l>And all Inventors of new Fegaries.</l>
+               <l>And let all the people ſay Amen.</l>
+            </lg>
+            <lg>
+               <l>Curſed be he that doth not pray</l>
+               <l>The Excize may quite be taken away,</l>
+               <l>And all Traytors to come to decay.</l>
+               <l>And let all the people ſay Amen.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <dateline>
+                  <date>Anno 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
